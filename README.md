@@ -1,1 +1,1 @@
-# EEdyn
+# EE-graph-dyn
